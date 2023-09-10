@@ -4,7 +4,7 @@ Full-stack software engineer with 11 of experience. Passionate about AI and leve
 
 🛠 **Technologies & Tools**
 - ![](https://img.shields.io/badge/Code-JavaScript-yellow)
-- ![](https://img.shields.io/badge/Code-Python-blue)
+- ![](https://img.shields.io/badge/Code-Python-blue)(https://img.shields.io/badge/Code-Go-blue)
 - ![](https://img.shields.io/badge/Framework-React-informational)
 - ![](https://img.shields.io/badge/Framework-Node.js-green)
 - ![](https://img.shields.io/badge/Tools-TensorFlow-orange)
