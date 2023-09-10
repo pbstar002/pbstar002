@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hello, I'm a Senior Full Stack Software Engineer! 👋
 
-<!--
-**pbstar002/pbstar002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-stack software engineer with 11 of experience. Passionate about AI and leveraging it to build next-gen applications. Dedicated to crafting robust, scalable, and intuitive software.
 
-Here are some ideas to get you started:
+🛠 **Technologies & Tools**
+- ![](https://img.shields.io/badge/Code-JavaScript-yellow)
+- ![](https://img.shields.io/badge/Code-Python-blue)
+- ![](https://img.shields.io/badge/Framework-React-informational)
+- ![](https://img.shields.io/badge/Framework-Node.js-green)
+- ![](https://img.shields.io/badge/Tools-TensorFlow-orange)
+- ![](https://img.shields.io/badge/Database-MongoDB-yellowgreen)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+Ever since I wrote my first program in C++ and manipulated it to produce a desired output, I have been obsessed with the idea of using software to solve practical problems. As I progressed through my career, the rise of AI and its transformative capabilities fascinated me. I've since focused on melding my full-stack expertise with AI to build solutions that are both intelligent and user-centric.
+
+## 📈 Recent Projects
+- **AI Chatbot** - Built an intelligent chatbot for e-commerce platforms using TensorFlow.
+- **Smart Analytics Dashboard** - Developed a full-stack analytics dashboard integrating predictive AI models for businesses.
+- **Pose estimation Dashboard** - Developed a full-stack analytics dashboard integrating predictive AI models for businesses.
